@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Project 5</string>
+    <string name="ru_pizza">RU PIZZA</string>
+    <string name="current_order">Current Order</string>
+    <string name="store_order">Store Order</string>
+    <string name="small_pizza_price">small_pizza_price</string>
+    <string name="medium_pizza_price">medium_pizza_price</string>
+    <string name="large_pizza_price">large_pizza_price</string>
+    <string name="pizza_style">pizza_style</string>
+    <string name="pizza_crust">pizza_crust</string>
+    <string name="order_pizza">Order Pizza</string>
+    <string name="openpizzaorder">openPizzaOrder</string>
+    <string name="opencurrentorder">openCurrentOrder</string>
+    <string name="openstoreorder">openStoreOrder</string>
+    <string name="toppings">Toppings</string>
+    <string name="pizzapic">pizzaPic</string>
+    <string name="pizzatoppinglist">pizzaToppingList</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="deluxe">Deluxe</string>
+    <string name="choose_your_topping">Choose Your Topping</string>
+    <string name="selected_toppings">Selected Toppings</string>
+    <string name="available_toppings">Available Toppings</string>
+    <string name="tips_tap_the_topping_in_the_list_for_adding_and_removing">Tips: Tap the topping in the list for adding and removing!</string>
+    <string name="pizzaprice">pizzaPrice</string>
+    <string name="price">Price: $</string>
+    <string name="order_number">Order Number:</string>
+    <string name="sales_taxes">TextView</string>
+    <string name="sales_taxes_label">Sales Taxes: $</string>
+    <string name="subtotal_label">Subtotal: $</string>
+    <string name="subtotal">TextView</string>
+    <string name="order_total_label">Order Total: $</string>
+    <string name="tips_current_order">Tips: Tap item in the list view for removing single pizza!</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="place_order">Place Order</string>
+    <string name="order_total">TextView</string>
+    <string name="delete_this_order">Delete This Order</string>
+    <string name="total_price">Total_Price</string>
+    <string name="order_total_including_taxes">Order Total (Including Taxes): $</string>
+
+    <string-array name="styleList">
+        <item>Style: Chicago</item>
+        <item>Style: Chicago</item>
+        <item>Style: Chicago</item>
+        <item>Style: Chicago</item>
+        <item>Style: New York</item>
+        <item>Style: New York</item>
+        <item>Style: New York</item>
+        <item>Style: New York</item>
+    </string-array>
+
+    <string-array name="flavorList">
+        <item>Deluxe</item>
+        <item>BBQ Chicken</item>
+        <item>Meatzza</item>
+        <item>Build Your Own</item>
+        <item>Deluxe</item>
+        <item>BBQ Chicken</item>
+        <item>Meatzza</item>
+        <item>Build Your Own</item>
+    </string-array>
+
+    <string-array name="crustList">
+        <item>Crust: Deep_Dish</item>
+        <item>Crust: Pan</item>
+        <item>Crust: Stuffed</item>
+        <item>Crust: Pan</item>
+        <item>Crust: Brooklyn</item>
+        <item>Crust: Thin</item>
+        <item>Crust: Hand_Tossed</item>
+        <item>Crust: Hand_Tossed</item>
+    </string-array>
+
+    <string-array name="toppingsList">
+        <item>Sausage, Pepperoni, Green Pepper, Onion, Mushroom</item>
+        <item>BBQ Chicken, Green Pepper, Provolone, Cheddar</item>
+        <item>Sausage, Pepperoni, Beef, Ham</item>
+        <item>Build Your Own! $1.59 for each additional topping, up to 7 toppings!</item>
+        <item>Sausage, Pepperoni, Green Pepper, Onion, Mushroom</item>
+        <item>BBQ Chicken, Green Pepper, Provolone, Cheddar</item>
+        <item>Sausage, Pepperoni, Beef, Ham</item>
+        <item>Build Your Own! $1.59 for each additional topping, up to 7 toppings!</item>
+    </string-array>
+
+    <string-array name="smallPriceList">
+        <item>Small: $14.99</item>
+        <item>Small: $13.99</item>
+        <item>Small: $15.99</item>
+        <item>Small: $8.99</item>
+        <item>Small: $14.99</item>
+        <item>Small: $13.99</item>
+        <item>Small: $15.99</item>
+        <item>Small: $8.99</item>
+    </string-array>
+
+    <string-array name="mediumPriceList">
+        <item>Medium: $16.99</item>
+        <item>Medium: $15.99</item>
+        <item>Medium: $17.99</item>
+        <item>Medium: $10.99</item>
+        <item>Medium: $16.99</item>
+        <item>Medium: $15.99</item>
+        <item>Medium: $17.99</item>
+        <item>Medium: $10.99</item>
+    </string-array>
+
+    <string-array name="largePriceList">
+        <item>Large: $18.99</item>
+        <item>Large: $17.99</item>
+        <item>Large: $19.99</item>
+        <item>Large: $12.99</item>
+        <item>Large: $18.99</item>
+        <item>Large: $17.99</item>
+        <item>Large: $19.99</item>
+        <item>Large: $12.99</item>
+    </string-array>
+
+    <string-array name="buttonText">
+        <item>Add to Order</item>
+        <item>Add to Order</item>
+        <item>Add to Order</item>
+        <item>Build Your Own</item>
+        <item>Add to Order</item>
+        <item>Add to Order</item>
+        <item>Add to Order</item>
+        <item>Build Your Own</item>
+    </string-array>
+</resources>
